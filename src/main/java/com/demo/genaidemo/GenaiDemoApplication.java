@@ -9,6 +9,7 @@ public class GenaiDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(GenaiDemoApplication.class, args);
         System.out.println("main method");
+        System.out.println("feature commit method");
     }
 
 }
